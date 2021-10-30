@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConsoleApp4": {
+      "commandName": "Project",
+      "commandLineArgs": "rock paper scissors lizard Spock monkey banana"
+    },
+    "RPSGame": {
+      "commandName": "Project",
+      "commandLineArgs": "rock paper scissors lizard Spock monkey banana"
+    }
+  }
+}
